@@ -1,1 +1,4 @@
 main line 1
+squash line 3
+squash line 4
+squash line 5
